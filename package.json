@@ -1,0 +1,28 @@
+{
+  "name": "tank",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Utkarsh Sinha <sinha.utkarsh1990@gmail.com>",
+  "description": "How may I help you today?",
+  "dependencies": {
+    "hubot-maps": "0.0.2",
+    "hubot-shipit": "~0.2.0",
+    "hubot-help": "~0.1.1",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "~0.2.1",
+    "hubot-pugme": "~0.1.0",
+    "hubot-rules": "~0.1.1",
+    "hubot-microsoft-translator": "~0.2.0",
+    "hubot-heroku-keepalive": "~1.0.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-scripts": "~2.16.2",
+    "hubot-slack": "~3.3.0",
+    "hubot": "~2.16.0",
+    "lodash": "~3.10.1",
+    "moment": "~2.10.6",
+    "chrono-node": "~1.0.6"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
